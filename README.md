@@ -5,7 +5,6 @@ AppWebRTC     -------基于webrtc-m85版本，可支持本地调试c++,不可用
 [AndroidStudio集成webrtc-c++进行单步调试](https://webrtc.mthli.com/basic/webrtc-breakpoint/)
 
 # 2 AppRTC--服务搭建
-搭建来源《WebRTC Native开发实战》
 我这边测试的环境是ubuntu
 ## 2.1 ubuntu服务器防火墙需要配置开放的端口如下：
 ●　TCP 8080用于Signal Server的HTTP服务。<br>
