@@ -1,8 +1,7 @@
 # 1 AppWebRTC--应用端
 
-Yet another AppRTC demo which split from [njovy/AppRTCDemo](https://github.com/njovy/AppRTCDemo) 😱
-AppWebRTC     -------基于webrtc-m85版本，可支持本地调试c++,不可用于正式版本
-
+Yet another AppRTC demo which split from [njovy/AppRTCDemo](https://github.com/njovy/AppRTCDemo) 😱 <br>
+AppWebRTC     -------基于webrtc-m85版本，可支持本地调试c++,不可用于正式版本 <br>
 [AndroidStudio集成webrtc-c++进行单步调试](https://webrtc.mthli.com/basic/webrtc-breakpoint/)
 
 # 2 AppRTC--服务搭建
